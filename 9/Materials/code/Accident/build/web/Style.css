@@ -1,0 +1,55 @@
+/* 
+    Document   : Style
+    Created on : Apr 20, 2015, 3:13:37 PM
+    Author     : SYSTEM 4
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body
+{
+    background-image:url( bg.jpg);
+}
+table
+{
+    background-color:greenyellow;
+}
+a:visited
+{
+    color:yellow;
+}
+a:active
+{
+    color:yellow;
+}
+a:link
+{
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover 
+{
+    color:whitesmoke; 
+}
+h1
+{
+    color:yellow;
+}
+input
+{
+    font-size: 20px;
+}
+th
+{
+    background-color:blueviolet;
+    color: wheat;
+}
+td
+{
+    background-color:wheat;
+}
+
+
